@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Visibility Quick Setting</string>
+    <string name="tile_label">Bluetooth Visibility Quick Setting</string>
+
+    <string name="bt_tile_title">BT Sichtbarkeit</string>
+
+    <string name="bt_off">BT ist aus</string>
+    <string name="bt_not_available">BT ist nicht verfügbar</string>
+    <string name="bt_visible">BT ist sichtbar</string>
+    <string name="bt_not_visible">BT ist nicht sichtbar</string>
+    <string name="bt_unknown">BT Status unbekannt</string>
+
+    <string name="main_text">Bitte die \"Quick Settings\"-Kacheln zum aktivieren/deaktivieren nutzen</string>
+</resources>
